@@ -1,0 +1,20 @@
+version: 7
+name: Lotus
+display_name: Lotus
+websites:
+  - url: https://lotus.filecoin.io
+social:
+  twitter:
+    - url: https://x.com/lotus_web3
+description: |
+  Lotus Client is the backbone of the Filecoin network, serving as a implementation used by a large percentage of the network participants.
+  
+  As critical infrastructure, it powers:
+  - Storage providers
+  - API services
+  - Wallets
+  - Bootstrap nodes
+  - Exchanges
+  - Chain explorers across the ecosystem
+github:
+  - url: https://github.com/filecoin-project/lotus/
